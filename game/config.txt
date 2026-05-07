@@ -1,0 +1,5 @@
+Game_name:新的游戏;
+Game_key:a28bd39823eeb4;
+Title_img:fengmian.jpg;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;

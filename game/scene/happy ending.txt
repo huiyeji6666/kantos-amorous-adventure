@@ -1,0 +1,22 @@
+bgm:s_Title.mp3;
+changeBg:xxs.jpg -next;
+changeFigure:byxz.png -next=true -transform={"position":{"x":165,"y":5}}
+夏栀:不好意思喽，今晚有约了。 -第六场/5 夏.mp3 -fontSize=large -center;
+changeFigure:none;
+intro:夏栀去赴约了 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:luxun (1).jpg -next;
+changeFigure:nz.png -next=true -transform={"position":{"x":87,"y":461},"scale":{"x":1.2,"y":1.2},"alpha":0.935}
+:表演结束后，江屿一直在鲁迅广场站着，似乎是在等谁 -fontSize=large -center;
+changeBg:luxun (2).jpg -next;
+changeFigure:byxz.png -next=true -transform={"position":{"x":786,"y":18}}
+夏栀:你一直在等我吗？ -第七场/1 夏.mp3 -fontSize=large -center;
+changeFigure:none;
+intro:ending -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:后日谈 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:微信图片_20260504215336_76_31.jpg -next;
+甜甜&康德:所以，你的回答是什么？ -第七场/2 猫.mp3 -fontSize=large;
+夏栀:我推掉了聚餐来赴江屿的约。不是怕亏欠，也不是碍于约定，是我自己想来。 -第七场/3 夏.mp3 -fontSize=large;
+夏栀:我遵从自己的理性与真心 -第七场/5月6日 (1).mp3 -fontSize=large;
+intro:要只按照你同时能够愿意它成为一条普遍法则的那条准则去行动。| -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:;
+end;

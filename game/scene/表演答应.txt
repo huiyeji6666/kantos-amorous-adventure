@@ -1,0 +1,83 @@
+bgm:s_Title.mp3;
+changeBg:kejianliaot.jpg -next;
+夏栀:........好吧 -第二场/20 夏.mp3 -fontSize=large;
+宋屹:太好了！那我们找时间抽空排练一下！ -第二场/21 宋.mp3 -fontSize=large;
+changeBg:heiban.jpg -next;
+changeFigure:xiazhimimang.png -next;
+夏栀:（内心）其实我不想唱，但是我说不出来“不”。 -fontSize=large -center;
+changeFigure:none;
+intro:排练进行中ing -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:tianjingchang.jpg -next;
+changeFigure:pailian(1).png -next=true -transform={"position":{"x":-249,"y":57}}
+:田径场   看台下方   傍晚 -fontSize=large -center;
+:夏栀、宋屹排练节目歌唱《素颜》，转身时肩膀相碰。 -fontSize=large -center;
+changeBg:tianjingchang_001.jpg -next;
+changeFigure:songyipailian1.png -transform={"position":{"x":618,"y":100},"scale":{"x":0.7,"y":0.7}} -next;
+宋屹:抱歉抱歉，我快了半拍，撞到你了。 -第三场/1 宋.mp3 -fontSize=large -center;
+changeFigure:xiazhi.png -left -transform={"position":{"x":-712,"y":165},"scale":{"x":-0.6,"y":0.6}} -next;
+夏栀:没事，我们重来就好。 -第三场/2 夏.mp3 -fontSize=large -left;
+changeFigure: -left -next;
+changeFigure:none;
+changeBg:jiangyukanjian.jpg -next;
+:几十米外，提着奶茶赶来的江屿看见了这一幕。 -fontSize=large;
+changeBg:tianjingchang.jpg -next;
+changeFigure:jiangyushiluo.png -next;
+江屿:（内心）买了她喜欢的乌龙奶茶少糖加珍珠，是想送给她的.......... -fontSize=large -center;
+changeFigure:;
+changeBg:jiangyukanjian.jpg -next;
+:江屿看见夏栀和宋屹相谈甚欢，远远的站了一会，便离开了。 -fontSize=large;
+intro:江屿独自一人，走着走着发现自己来到了正熙楼。他坐在门口的台阶上，奶茶放旁边一动未动。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:zhiyounanzhu.jpg -next;
+:   ;
+changeBg:jingyuhett.jpg -next;
+:江屿坐着，甜甜悄悄地来到了江屿脚边。 -fontSize=large;
+changeBg:lou.jpg -next;
+changeFigure:tiantian.png -right=true -next=true -transform={"position":{"x":575,"y":333},"scale":{"x":0.5,"y":0.5}}
+甜甜&康德:奶茶不喝酒凉了。 -第四场/1 猫.mp3 -fontSize=large -right;
+changeFigure:jyjy.png -left=true -next=true -transform={"position":{"x":-125,"y":121},"scale":{"x":0.7,"y":0.7}}
+江屿:........是你啊 -第四场/2 江.mp3 -fontSize=large -left;
+甜甜&康德:你看见她了，却又离开了。 -第四场/3 猫.mp3 -fontSize=large -right;
+甜甜&康德:我每天都在门口。大部分人都带着没送出去的东西。 -第四场/4 猫.mp3 -fontSize=large -right;
+changeFigure:jiangyushiluo.png -left -transform={"position":{"x":-635,"y":112},"scale":{"x":-0.7,"y":0.7}} -next;
+江屿:我本来想去找她，可看见她和宋屹一起排练，笑得很开心..........我觉得，她或许和他在一起，会更快乐。 -第四场/5 江.mp3 -fontSize=large -left;
+甜甜&康德:小子，我知道你喜欢她, -第四场/6 猫.mp3 -fontSize=large -right;
+甜甜&康德:你听着，她会不会喜欢你她和谁更开心告白之后会怎样这些答应都在她手里。你能掌控的只有一件事你要不要把心意告诉她。你想告诉她对吗 -第四场/7 猫.mp3 -fontSize=large -right;
+江屿:.......想，可是........ -第四场/8 江.mp3 -fontSize=large -left;
+甜甜&康德:你总不能流血就喊痛怕黑就开灯。告诉她她的回应是她的自由，你不能怕被拒绝怕难过就不去做自己该做的事。 -第四场/9 猫.mp3 -fontSize=large -right;
+甜甜&康德:如果喜欢谁，就别等，别让她等得对你失望。 -第四场/10 猫.mp3 -fontSize=large -right;
+changeFigure: -right -next;
+:甜甜说完便头也不回的走了。 -fontSize=large;
+changeBg:lou.jpg -next;
+changeFigure:sj.png -left=true -next=true -transform={"position":{"x":-1175,"y":71},"scale":{"x":-0.9,"y":0.9}}
+:江屿打开聊天，在对话框中打出又删除不知道了多少次，终于下定论决心。 -fontSize=large -left;
+changeFigure:liaotiao.jpg -transform={"position":{"x":585,"y":-14},"scale":{"x":0.6,"y":0.7}}
+:演出结束后有空吗？有空的话一起去吃个饭吧，去你之前一直说的那家。 -fontSize=large -center;
+changeFigure: -next;
+changeFigure:jiand).png -left -next;
+:消息发送出去之后，江屿起身，眼神坚定。 -fontSize=large -left;
+changeFigure: -left;
+intro:时间来到了毕业晚会那天 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:houtai.jpg -next;
+:晚会现场   侧台 -fontSize=large;
+changeFigure:xiazhiditoukansji.png -next=true -transform={"position":{"x":136,"y":201},"scale":{"x":-0.9,"y":0.9}}
+:夏栀在侧台紧张，发消息给江屿。 -第五场/MiniMax_2026-05-03_01_22_27_温润男声_no-watermark.mp3 -fontSize=large -center;
+夏栀:（聊天框）我好紧张 -fontSize=large -center;
+changeFigure:iyaw.png -left -transform={"position":{"x":-206,"y":205},"scale":{"x":0.7,"y":0.7}} -next;
+江屿:（秒回）别紧张，你唱歌很好听。 -第五场/MiniMax_2026-05-03_01_22_27_温润男声_no-watermark.mp3 -fontSize=large -center;
+changeFigure:awxz.png -next=true -transform={"position":{"x":720,"y":198},"scale":{"x":0.7,"y":0.7}}
+夏栀:（聊天框）好！ -fontSize=large -center;
+changeFigure:none -next;
+changeFigure:none -left -next;
+changeBg:wt.jpg -next;
+:到夏栀与宋屹上台表演了 -fontSize=large;
+changeBg:by.jpg -next;
+:夏栀与宋屹完美合唱《素颜》，台下掌上热烈雷动。 -fontSize=large;
+:江屿在台下全神贯注，一直注视着夏栀。 -fontSize=large;
+changeBg:xxs.jpg -next;
+:表演结束后的休息室，十分的热闹，同学们都在起哄。 -fontSize=large;
+同学:你们俩配合也太默契了吧，是不是偷偷练了好久，默契过头啦！ -第六场/1 同学.mp3 -fontSize=large;
+changeFigure:bysy.png -next;
+宋屹:你可别打趣我们了 -第六场/2 宋.mp3 -fontSize=large -center;
+宋屹:今天演出那么成功，大家一起去庆祝。 -第六场/3 宋.mp3 -fontSize=large -center;
+宋屹:（看向夏栀说）一起吗？ -第六场/4 宋.mp3 -fontSize=large -center;
+choose:我还是答应吧:bad ending.txt|我要拒绝！:happy ending.txt;

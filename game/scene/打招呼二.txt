@@ -1,0 +1,74 @@
+bgm:s_Title.mp3;
+changeBg:renwenloujinjing.jpg -next;
+changeFigure:reqing.png -left -transform={"position":{"x":-616,"y":144},"scale":{"x":0.8,"y":0.8}} -next;
+夏栀:你好，我是夏栀 -第一场/2 夏.mp3 -notend -fontSize=large -left;
+changeBg:renwenloujinjing_001.jpg -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+changeFigure:选择立绘文件 -next;
+changeFigure:ttceng.png -next;
+:甜甜吃完，站起来。它没有走向宋屹，而是走到夏栀脚边并蹭了一下她的小腿。 -fontSize=large -center;
+changeBg:renwenloujinjing.jpg -next;
+changeFigure:tiantianbeiying.png -next=true -transform={"position":{"x":-637,"y":258},"scale":{"x":0.2,"y":0.2}}
+:然后头也不回地向走廊深处走去。 -fontSize=large -center;
+changeBg:renwenloujinjing.jpg -next;
+changeFigure:xiazhilengshen.png -next=true -transform={"position":{"x":155,"y":245}}
+ :夏栀看着甜甜的背影，愣了两秒。 -fontSize=large -center;
+changeBg: -next;
+ 
+intro:几天后  下午 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:zoulang.jpg -next;
+changeFigure:tiantian_001.png -next=true -transform={"position":{"x":-218,"y":269},"scale":{"x":0.1,"y":0.1}}
+changeFigure:xiazhiditoukansji.png -right -transform={"scale":{"x":-0.6,"y":0.6},"position":{"x":663,"y":454}} -next;
+:人文楼  走廊 -fontSize=large -right;
+changeFigure: -right -next;
+changeFigure:tiantian_001_001.png -left -transform={"position":{"x":-218,"y":269},"scale":{"x":0.1,"y":0.1}} -next;
+changeFigure:xiazhibeiying.png -transform={"position":{"x":-1,"y":231},"scale":{"x":0.6,"y":0.6}} -next;
+:走廊空荡荡的，夏栀心里满是迷茫。 -fontSize=large -center;
+changeFigure:xiazhimimang.png -transform={"position":{"x":-163,"y":106}} -next;
+夏栀:（心声）（我很喜欢哲学，但是妈妈说学哲学没有前途，|室友也在准备考研了，我到底该走哪条路。） -fontSize=large -center;
+changeBg:zoulang_001.jpg -next;
+changeFigure:tiantian.png -transform={"scale":{"x":0.7,"y":0.7},"position":{"x":-12,"y":71}} -next;
+甜甜&康德:是有心事吗？ -第二场/1 猫.mp3 -fontSize=large -left;
+changeFigure:xiazhichijing.png -next=true -transform={"position":{"x":211,"y":145},"scale":{"x":0.8,"y":0.8}}
+夏栀:.......你刚才说什么？是你在说话？ -第二场/2 夏.mp3 -fontSize=large -center;
+changeFigure:tiantian.png -left -transform={"position":{"x":-533,"y":431},"scale":{"x":0.5,"y":0.5}} -next;
+甜甜&康德:是不是很震惊。 -第二场/3 猫.mp3 -fontSize=large -left;
+甜甜&康德:我会说话，只是没对你说过。 -第二场/4 猫.mp3 -fontSize=large -left;
+夏栀:我不是在做梦吧？ -第二场/5 夏.mp3 -fontSize=large -center;
+changeFigure: -next;
+changeFigure:none -left;
+intro:甜甜用头顶开杂物间的门 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:zawujian.jpg -next;
+changeFigure:选择立绘文件 -next;
+intro:;
+甜甜&康德:进来，别被人发现了。 -第二场/6 猫.mp3;
+intro:夏栀推门进入，杂物间堆满了旧桌椅，阳光从窄窗进来，夏栀坐在一把旧椅子上，甜甜蹲在一个大纸箱上。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:tiantianhexiazhi.jpg;
+changeBg:zawujian.jpg -next;
+changeFigure:tiantian.png -right -transform={"position":{"x":658,"y":147},"scale":{"x":-0.5,"y":0.5}} -next;
+changeFigure:xiazhimimang.png -left=true -transform={"position":{"x":-532,"y":148},"scale":{"x":-0.8,"y":0.8}}
+甜甜&康德:你刚刚在走廊中想什么？ -第二场/7 猫.mp3 -fontSize=large -right;
+夏栀:想以后的路。 -第二场/8 夏.mp3 -fontSize=large -left;
+夏栀:家里问我未来的方向，室友都有考研的意愿，我........我不知道该怎么选。 -第二场/9 夏.mp3 -fontSize=large -left;
+甜甜&康德:那你内心的想法呢？ -第二场/10 猫.mp3 -fontSize=large -right;
+夏栀:我好像.......从来没问过自己这个问题。我一直模仿别人去寻找自己，忽略了自己想要什么。 -第二场/11 夏（1）.mp3 -fontSize=large -left;
+夏栀:（低声）我好像.....从来没问过自己这个问题。我一直考虑别人觉得，忽略了自己想要什么。 -第二场/11 夏（2）.mp3 -fontSize=large -left;
+甜甜&康德:这样的生活，你觉得好吗？ -第二场/12 猫.mp3 -fontSize=large -right;
+夏栀:一点都不好。 -第二场/13 夏.mp3 -fontSize=large -left;
+甜甜&康德:刚才那句话，是你自己想说的，还是别人教你说的？ -第二场/14 猫.mp3 -fontSize=large -right;
+甜甜&康德:想清楚了再来找我。 -第二场/15 猫.mp3 -fontSize=large -right;
+changeBg:zawujian.jpg;
+changeFigure: -right -next;
+:甜甜说完直接离开，杂货间里就剩下夏栀一个人。 -fontSize=large;
+夏栀:（内心）这是第一次，为我自己说话。 -fontSize=large -left;
+changeFigure:none -left;
+intro:一年后，毕业晚会将至，大家都在谈论表演什么节目。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:jiaoshikejian.jpg -next;
+:教室   课间 -fontSize=large;
+changeBg:kejianliaot.jpg -next;
+changeFigure:选择立绘文件 -next;
+宋屹:夏栀，毕业晚会还差个节目，学生会说你去年唱的特别好，今年在露一手呗？ -第二场/16 宋.mp3 -fontSize=large;
+夏栀:我.........还没想好。 -第二场/17 夏.mp3 -fontSize=large;
+宋屹:陪我一起吧，我一人上台紧张的腿都抖。 -第二场/18 宋.mp3 -fontSize=large;
+choose:（还是答应）:选择场景文件|（委婉拒接）:选择场景文件;

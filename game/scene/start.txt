@@ -1,0 +1,28 @@
+bgm:s_Title.mp3;
+intro:人物介绍 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:renwenlouyuanjing.jpg -next;
+changeFigure:xiazhiquanshen.png -transform={"position":{"x":24,"y":137},"scale":{"x":0.8,"y":0.8}} -next;
+夏栀:女，大二，哲学学院。|不太会说“不”，一直生活在别人的期盼里，自己却未意识到这一点。 -fontSize=large -center;
+changeFigure:jiangyuquanshen.png -next=true -transform={"position":{"x":-177,"y":158},"scale":{"x":0.8,"y":0.8}}
+江屿:男，大二，哲学学院。夏栀的青梅竹马。内向沉稳，心思细腻。|他从“因为害怕而不敢行动”到“无论结果如何都应该做对的事”。 -fontSize=large -center;
+changeFigure:songyiquanshen.png -transform={"position":{"x":-286,"y":122},"scale":{"x":0.8,"y":0.8}} -next;
+宋屹:男，大二，转专业到哲学学院。|阳光开朗，很受欢迎。 -fontSize=large -center;
+changeFigure:kangdetiantain.png -transform={"position":{"x":-140,"y":141},"scale":{"x":0.8,"y":0.8}} -next;
+康德&甜甜:康德意志的化身，使得奶牛猫甜甜会说话。|台词少但是句句打在关节上，不替人做决定只逼问本心。 -fontSize=large -center;
+intro:康德的奇妙冒险|恋爱之风 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:renwenlouyuanjing.jpg -next;
+changeFigure:songyuweimao.png -transform={"position":{"x":-186,"y":308},"scale":{"x":0.1,"y":0.1},"alpha":0.5} -next;
+:人文楼门口  下午 -fontSize=large;
+changeBg:renwenloujinjing.jpg -next;
+changeFigure:songyuweimao_001.png -next=true -transform={"position":{"x":-109,"y":235},"scale":{"x":0.5,"y":0.5}}
+宋屹蹲在门前喂甜甜，甜甜吃的很慢，|宋屹刚想伸手摸，甜甜偏头躲开了。 -fontSize=large -center;
+changeFigure:xiazhikanshouji.png -left=true -next=true -transform={"position":{"x":-578,"y":164},"scale":{"x":0.4,"y":0.4}}
+:夏栀从楼内走出，低头看手机。路过台阶时，余光扫到了甜甜|——黑白相间，在阳光下泛光。 -notend -fontSize=large -center;
+changeFigure:none;
+changeFigure:tiantianjiaoxiazhi.png -right=true -next=true -transform={"position":{"x":611,"y":356},"scale":{"x":0.6,"y":0.6}}
+甜甜:喵~~（甜甜忽然抬头，朝夏栀叫了一声） -notend -fontSize=large -right;
+changeFigure:xiazhiniutou.png -left=true -transform={"position":{"x":-400,"y":240}}
+:（宋屹顺着猫的目光抬头）  -fontSize=large -center;
+changeFigure:songyiquanshen.png -right=true -next=true -transform={"position":{"x":493,"y":99},"scale":{"x":0.9,"y":0.9}}
+宋屹:你好，你是哲学学院的同学吧？我是宋屹，刚转来的。 -第一场/1 宋.mp3 -fontSize=large -right;
+choose:（礼貌回复）:打招呼一.txt|（告诉名字）:打招呼二.txt
