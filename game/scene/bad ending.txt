@@ -1,18 +1,18 @@
-bgm:s_Title.mp3;
+bgm:s_Title.mp3 -volume=35;
 changeBg:xxs.jpg -next;
 changeFigure:byxz.png -transform={"position":{"x":138,"y":0}} -next;
 夏栀:好呀好呀，我们走吧。 -fontSize=large -center;
 changeFigure:none;
-intro:说完，宋屹带队去庆祝。夏栀走在人群中，脚步轻飘飘的。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:说完，宋屹带队去庆祝。夏栀走在人群中，脚步轻飘飘的。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:luxun (1).jpg -next;
 :夜晚  鲁迅广场 -fontSize=large;
 changeFigure:nz.png -next=true -transform={"position":{"x":0,"y":391}}
 :表演结束后，江屿一直在鲁迅广场等人，手中的奶茶彻底凉透，但是.........;
 :没有人来。 -fontSize=large;
 changeFigure:none;
-intro:后日谈 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:后日谈 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:微信图片_20260504215336_76_31.jpg -next;
 甜甜&康德:你又把自己交给别人了，还是不会说不。;
-intro:“你一直服从别人的法则，却从未成为你自己。” -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-intro:   -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:“你一直服从别人的法则，却从未成为你自己。” -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
+intro: -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 end;

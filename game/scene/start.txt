@@ -1,5 +1,5 @@
-bgm:s_Title.mp3;
-intro:人物介绍 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+bgm:s_Title.mp3 -volume=35;
+intro:人物介绍 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:renwenlouyuanjing.jpg -next;
 changeFigure:xiazhiquanshen.png -transform={"position":{"x":24,"y":137},"scale":{"x":0.8,"y":0.8}} -next;
 夏栀:女，大二，哲学学院。|不太会说“不”，一直生活在别人的期盼里，自己却未意识到这一点。 -fontSize=large -center;
@@ -9,7 +9,9 @@ changeFigure:songyiquanshen.png -transform={"position":{"x":-286,"y":122},"scale
 宋屹:男，大二，转专业到哲学学院。|阳光开朗，很受欢迎。 -fontSize=large -center;
 changeFigure:kangdetiantain.png -transform={"position":{"x":-140,"y":141},"scale":{"x":0.8,"y":0.8}} -next;
 康德&甜甜:康德意志的化身，使得奶牛猫甜甜会说话。|台词少但是句句打在关节上，不替人做决定只逼问本心。 -fontSize=large -center;
-intro:康德的奇妙冒险|恋爱之风 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeFigure:none;
+intro:夏栀与江屿本是小时候最要好的玩伴，可是由于学业不同不得不各奔东西，期间两人音讯寥寥。不过就如同巧合一般，他们二人多年后竟在同一所大学相遇。尘封多年的记忆使他们再次熟络起来。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
+intro:康德的奇妙冒险   恋爱之风 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:renwenlouyuanjing.jpg -next;
 changeFigure:songyuweimao.png -transform={"position":{"x":-186,"y":308},"scale":{"x":0.1,"y":0.1},"alpha":0.5} -next;
 :人文楼门口  下午 -fontSize=large;

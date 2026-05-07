@@ -1,4 +1,4 @@
-bgm:s_Title.mp3;
+bgm:s_Title.mp3 -volume=35;
 changeFigure:lengdan.png -left -transform={"position":{"x":-567,"y":89},"scale":{"x":0.9,"y":0.9},"alpha":1} -next;
 夏栀:你好，我是夏栀。 -第一场/2 夏.mp3;
 changeBg:renwenloujinjing_001.jpg -next;
@@ -16,7 +16,7 @@ changeFigure:xiazhilengshen.png -next=true -transform={"position":{"x":155,"y":2
 changeFigure:none;
 changeBg: -next;
  
-intro:几天后  下午 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:几天后  下午 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:zoulang.jpg -next;
 changeFigure:tiantian_001.png -next=true -transform={"position":{"x":-218,"y":269},"scale":{"x":0.1,"y":0.1}}
 changeFigure:xiazhiditoukansji.png -right -transform={"scale":{"x":-0.6,"y":0.6},"position":{"x":663,"y":454}} -next;
@@ -38,13 +38,14 @@ changeFigure:tiantian.png -left -transform={"position":{"x":-533,"y":431},"scale
 夏栀:我不是在做梦吧？ -第二场/5 夏.mp3 -fontSize=large -center;
 changeFigure: -next;
 changeFigure:none -left;
-intro:甜甜用头顶开杂物间的门 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:甜甜用头顶开杂物间的门 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:zawujian.jpg -next;
 changeFigure:选择立绘文件 -next;
-intro:;
-甜甜&康德:进来，别被人发现了。 -第二场/6 猫.mp3;
-intro:夏栀推门进入，杂物间堆满了旧桌椅，阳光从窄窗进来，夏栀坐在一把旧椅子上，甜甜蹲在一个大纸箱上。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-changeBg:tiantianhexiazhi.jpg;
+intro: -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
+甜甜&康德:进来，别被人发现了。 -第二场/6 猫.mp3 -fontSize=large;
+intro:夏栀推门进入，杂物间堆满了旧桌椅，阳光从窄窗进来，夏栀坐在一把旧椅子上，甜甜蹲在一个大纸箱上。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
+changeBg:tiantianhexiazhi.jpg -next;
+:     -fontSize=large;
 changeBg:zawujian.jpg -next;
 changeFigure:tiantian.png -right -transform={"position":{"x":658,"y":147},"scale":{"x":-0.5,"y":0.5}} -next;
 changeFigure:xiazhimimang.png -left=true -transform={"position":{"x":-532,"y":148},"scale":{"x":-0.8,"y":0.8}}
@@ -53,7 +54,6 @@ changeFigure:xiazhimimang.png -left=true -transform={"position":{"x":-532,"y":14
 夏栀:家里问我未来的方向，室友都有考研的意愿，我........我不知道该怎么选。 -第二场/9 夏.mp3 -fontSize=large -left;
 甜甜&康德:那你内心的想法呢？ -第二场/10 猫.mp3 -fontSize=large -right;
 夏栀:我好像.......从来没问过自己这个问题。我一直模仿别人去寻找自己，忽略了自己想要什么。 -第二场/11 夏（1）.mp3 -fontSize=large -left;
-夏栀:（低声）我好像.....从来没问过自己这个问题。我一直考虑别人觉得，忽略了自己想要什么。 -第二场/11 夏（2）.mp3 -fontSize=large -left;
 甜甜&康德:这样的生活，你觉得好吗？ -第二场/12 猫.mp3 -fontSize=large -right;
 夏栀:一点都不好。 -第二场/13 夏.mp3 -fontSize=large -left;
 甜甜&康德:刚才那句话，是你自己想说的，还是别人教你说的？ -第二场/14 猫.mp3 -fontSize=large -right;
@@ -63,7 +63,7 @@ changeFigure: -right -next;
 :甜甜说完直接离开，杂货间里就剩下夏栀一个人。 -fontSize=large;
 夏栀:（内心）这是第一次，为我自己说话。 -fontSize=large -left;
 changeFigure:none -left;
-intro:一年后，毕业晚会将至，大家都在谈论表演什么节目。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:一年后，毕业晚会将至，大家都在谈论表演什么节目。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:jiaoshikejian.jpg -next;
 :教室   课间 -fontSize=large;
 changeBg:kejianliaot.jpg -next;

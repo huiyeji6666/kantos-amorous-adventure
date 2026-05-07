@@ -1,4 +1,4 @@
-bgm:s_Title.mp3;
+bgm:s_Title.mp3 -volume=35;
 changeBg:kejianliaot.jpg -next;
 同学（女）:夏栀就答应吧！你唱歌超级好听！ -第二场/19 同学.mp3 -fontSize=large;
 :听完同学的建议，夏栀还是选择了听从。 -fontSize=large;
@@ -8,7 +8,7 @@ changeBg:heiban.jpg -next;
 changeFigure:xiazhimimang.png -next;
 夏栀:（内心）其实我不想唱，但是我说不出来“不”。 -fontSize=large -center;
 changeFigure:none;
-intro:排练进行中ing -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:排练进行中ing -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:tianjingchang.jpg -next;
 changeFigure:pailian(1).png -next=true -transform={"position":{"x":-249,"y":57}}
 :田径场   看台下方   傍晚 -fontSize=large -center;
@@ -28,7 +28,7 @@ changeFigure:jiangyushiluo.png -next;
 changeFigure:;
 changeBg:jiangyukanjian.jpg -next;
 :江屿看见夏栀和宋屹相谈甚欢，远远的站了一会，便离开了。 -fontSize=large;
-intro:江屿独自一人，走着走着发现自己来到了正熙楼。他坐在门口的台阶上，奶茶放旁边一动未动。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:江屿独自一人，走着走着发现自己来到了正熙楼。他坐在门口的台阶上，奶茶放旁边一动未动。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:zhiyounanzhu.jpg -next;
 :   ;
 changeBg:jingyuhett.jpg -next;
@@ -58,7 +58,7 @@ changeFigure: -next;
 changeFigure:jiand).png -left -next;
 :消息发送出去之后，江屿起身，眼神坚定。 -fontSize=large -left;
 changeFigure: -left;
-intro:时间来到了毕业晚会那天 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:时间来到了毕业晚会那天 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -userForward;
 changeBg:houtai.jpg -next;
 :晚会现场   侧台 -fontSize=large;
 changeFigure:xiazhiditoukansji.png -next=true -transform={"position":{"x":136,"y":201},"scale":{"x":-0.9,"y":0.9}}
