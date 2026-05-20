@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeBg:renwenloujinjing.jpg -next;
 changeFigure:reqing.png -left -transform={"position":{"x":-616,"y":144},"scale":{"x":0.8,"y":0.8}} -next;
 夏栀:你好，我是夏栀 -第一场/2 夏.mp3 -notend -fontSize=large -left;

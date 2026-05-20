@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeFigure:lengdan.png -left -transform={"position":{"x":-567,"y":89},"scale":{"x":0.9,"y":0.9},"alpha":1} -next;
 夏栀:你好，我是夏栀。 -第一场/2 夏.mp3;
 changeBg:renwenloujinjing_001.jpg -next;

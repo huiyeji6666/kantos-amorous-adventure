@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeBg:kejianliaot.jpg -next;
 同学（女）:夏栀就答应吧！你唱歌超级好听！ -第二场/19 同学.mp3 -fontSize=large;
 :听完同学的建议，夏栀还是选择了听从。 -fontSize=large;

@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeBg:xxs.jpg -next;
 changeFigure:byxz.png -next=true -transform={"position":{"x":165,"y":5}}
 夏栀:不好意思喽，今晚有约了。 -第六场/5 夏.mp3 -fontSize=large -center;

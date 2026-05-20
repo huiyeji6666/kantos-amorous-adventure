@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeBg:xxs.jpg -next;
 changeFigure:byxz.png -transform={"position":{"x":138,"y":0}} -next;
 夏栀:好呀好呀，我们走吧。 -fontSize=large -center;

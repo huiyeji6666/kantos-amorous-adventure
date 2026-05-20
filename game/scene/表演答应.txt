@@ -1,4 +1,4 @@
-bgm:s_Title.mp3 -volume=35;
+bgm:s_Title.mp3 -volume=20;
 changeBg:kejianliaot.jpg -next;
 夏栀:........好吧 -第二场/20 夏.mp3 -fontSize=large;
 宋屹:太好了！那我们找时间抽空排练一下！ -第二场/21 宋.mp3 -fontSize=large;
